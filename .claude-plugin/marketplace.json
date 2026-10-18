@@ -1,0 +1,13 @@
+{
+  "name": "paperclip-claude-code",
+  "description": "Paperclip for Claude Code: pin a Paperclip issue to your session, see the board in a pane, and let Claude read and comment on issues.",
+  "owner": {
+    "name": "eimkasp"
+  },
+  "plugins": [
+    {
+      "name": "paperclip",
+      "source": "./"
+    }
+  ]
+}
